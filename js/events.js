@@ -7,3 +7,5 @@ $(document).ready(function(){
 });
 
 function getIt();
+('h1').on("eventname", function(){
+  
